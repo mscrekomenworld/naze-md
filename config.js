@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6282393267884']
+global.ownernomer = "6282393267884"
+global.premium = ['6282393267884']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Faat Bot'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -58,17 +58,18 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 30
+	
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
+global.mygit = 'https://github.com/mscrekomenworld'
+global.myyt = 'https://youtube.com/c/ProfitinGT'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.mygc = "https://chat.whatsapp.com/JISfM9TuKDi0wv4jRWC69h"
+global.botname = 'Faat Bot'
+global.akulaku = 'Bot By Faat'
+global.ytname = 'ProfitinGT'
 
 
 let file = require.resolve(__filename)
